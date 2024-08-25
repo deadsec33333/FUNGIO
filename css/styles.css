@@ -439,7 +439,7 @@ section.tokienomics-sec{
     left: 0;
 }
 .tax-info h2 {
-    color: #FFAE00;
+    color: #0bc2ed;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #400072;
     font-family: "Londrina Solid";
@@ -456,7 +456,7 @@ section.tokienomics-sec{
 }
 .tax-info h4 {
     margin: 0;
-    color: #FFAE00;
+    color: #0bc2ed;
     -webkit-text-stroke-width: 2;
     -webkit-text-stroke-color: #400072;
     font-family: "Londrina Solid";
